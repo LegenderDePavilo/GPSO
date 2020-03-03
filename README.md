@@ -1,0 +1,2 @@
+# GPSO
+Geometric Particle Optimisation
